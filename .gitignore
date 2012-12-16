@@ -1,3 +1,6 @@
+# Compiled header files
+*.gch
+
 # Object files
 *.o
 
